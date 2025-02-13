@@ -1,3 +1,4 @@
+# Obedient Cat
 This file has a flag in plain sight (aka "in-the-clear").
 [Download flag](https://mercury.picoctf.net/static/704f877da185904ec3992e7255a15c6c/flag).
 Any hints about entering a command into the Terminal (such as the next one), will start with a '$'... everything after the dollar sign will be typed (or copy and pasted) into your Terminal.
