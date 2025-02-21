@@ -13,12 +13,12 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "picoCTF/General Skills 3/Codebook.md",
+                "file": "plantilla.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "Codebook"
+              "title": "plantilla"
             }
           }
         ]
@@ -170,6 +170,19 @@
   },
   "active": "93d76f469ad4c8c2",
   "lastOpenFiles": [
+    "picoCTF/Tarea 1 - General Skills/Time Machine.md",
+    "picoCTF/Tarea 1 - General Skills/Special.md",
+    "picoCTF/Tarea 1 - General Skills/Permissions.md",
+    "picoCTF/Tarea 1 - General Skills/Commitment Issues.md",
+    "picoCTF/Tarea 1 - General Skills/Collaborative Development.md",
+    "picoCTF/Tarea 1 - General Skills/chrono.md",
+    "picoCTF/Tarea 1 - General Skills/Blame Game.md",
+    "picoCTF/Tarea 1 - General Skills/binhexa.md",
+    "picoCTF/Tarea 1 - General Skills/Binary Search.md",
+    "picoCTF/Tarea 1 - General Skills/ASCII Numbers.md",
+    "picoCTF/General skills/2Warm.md",
+    "picoCTF/General Skills 3/Codebook.md",
+    "picoCTF/Tarea 1 - General Skills",
     "picoCTF/General Skills 3/Serpentine.md",
     "picoCTF/General Skills 3/PW Crack 3.md",
     "picoCTF/General Skills 3/fixme2.py.md",
@@ -178,25 +191,13 @@
     "picoCTF/General skills/Glitch Cat.md",
     "picoCTF/General skills/First Grep.md",
     "picoCTF/General skills/Bases.md",
-    "picoCTF/General skills/2Warm.md",
     "picoCTF/General Skills 3/PW Crack 1.md",
     "picoCTF/General Skills 3/fixme1.py.md",
     "picoCTF/General skills/what's a net cat?.md",
     "picoCTF/General Skills 3/convertme.py.md",
-    "picoCTF/General Skills 3/Codebook.md",
     "picoCTF/General Skills 3/runme.py.md",
     "picoCTF/General Skills 3/Super SSH.md",
-    "picoCTF/General skills 2/Static ain't always noise.md",
     "picoCTF/General Skills 3",
-    "picoCTF/General skills 2/repetitions.md",
-    "picoCTF/General skills 2/Magikarp Ground Mission.md",
-    "picoCTF/General skills 2/First Find.md",
-    "picoCTF/General skills 2/Big Zip.md",
-    "picoCTF/General skills 2/Based.md",
-    "picoCTF/General skills 2/Tab, Tab, Attack.md",
-    "picoCTF/General skills 2/wave flag.md",
-    "picoCTF/General skills/plumbing.md",
-    "picoCTF/General skills 2/useless.md",
     "picoCTF/General skills 2",
     "picoCTF/General skills",
     "Sin nombre",
