@@ -13,12 +13,12 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "picoCTF/Actividad 09 - picoCTF Web 2/Scavenger Hunt.md",
+                "file": "picoCTF/Actividad 10 - picoCTF Web 3/More SQLi.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "Scavenger Hunt"
+              "title": "More SQLi"
             }
           }
         ]
@@ -170,8 +170,12 @@
   },
   "active": "1c48d3d332ac36e6",
   "lastOpenFiles": [
-    "picoCTF/Actividad 09 - picoCTF Web 2/Cookies.md",
+    "picoCTF/Actividad 10 - picoCTF Web 3/JaWT Scratchpad.md",
+    "picoCTF/Actividad 10 - picoCTF Web 3/Irish-Name-Repo 1.md",
+    "picoCTF/Actividad 10 - picoCTF Web 3/More SQLi.md",
     "picoCTF/Actividad 09 - picoCTF Web 2/Scavenger Hunt.md",
+    "picoCTF/Actividad 10 - picoCTF Web 3",
+    "picoCTF/Actividad 09 - picoCTF Web 2/Cookies.md",
     "picoCTF/Actividad 09 - picoCTF Web 2/GET aHEAD.md",
     "picoCTF/General Skills 3/convertme.py.md",
     "picoCTF/Actividad 08 - picoCTF Web 1/Client-side-again.md",
@@ -196,9 +200,6 @@
     "picoCTF/Tarea 1 - General Skills/Commitment Issues.md",
     "picoCTF/Tarea 1 - General Skills/Collaborative Development.md",
     "picoCTF/Tarea 1 - General Skills/chrono.md",
-    "picoCTF/Tarea 1 - General Skills/Blame Game.md",
-    "picoCTF/Tarea 1 - General Skills/binhexa.md",
-    "picoCTF/General skills/2Warm.md",
     "picoCTF/Tarea 1 - General Skills",
     "picoCTF/General Skills 3",
     "picoCTF/General skills 2",
