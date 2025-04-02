@@ -13,12 +13,12 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "picoCTF/Actividad 10 - picoCTF Web 3/More SQLi.md",
+                "file": "picoCTF/Forense/Sin título.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "More SQLi"
+              "title": "Sin título"
             }
           }
         ]
@@ -170,9 +170,19 @@
   },
   "active": "1c48d3d332ac36e6",
   "lastOpenFiles": [
+    "Sin título.md",
+    "picoCTF/Forense/Sin título.md",
+    "picoCTF/Forense/Glory of the Garden.md",
+    "picoCTF/Actividad 11 - picoCTF Web - Parte 4/Trickster.md",
+    "picoCTF/Actividad 11 - picoCTF Web - Parte 4/SOAP.md",
+    "picoCTF/Actividad 11 - picoCTF Web - Parte 4/Most Cookies.md",
+    "picoCTF/Actividad 11 - picoCTF Web - Parte 4/MatchTheRegex.md",
+    "picoCTF/Forense",
+    "picoCTF/Sin título.md",
+    "picoCTF/Actividad 10 - picoCTF Web 3/More SQLi.md",
+    "picoCTF/Actividad 11 - picoCTF Web - Parte 4",
     "picoCTF/Actividad 10 - picoCTF Web 3/JaWT Scratchpad.md",
     "picoCTF/Actividad 10 - picoCTF Web 3/Irish-Name-Repo 1.md",
-    "picoCTF/Actividad 10 - picoCTF Web 3/More SQLi.md",
     "picoCTF/Actividad 09 - picoCTF Web 2/Scavenger Hunt.md",
     "picoCTF/Actividad 10 - picoCTF Web 3",
     "picoCTF/Actividad 09 - picoCTF Web 2/Cookies.md",
@@ -189,21 +199,12 @@
     "picoCTF/Actividad 08 - picoCTF Web 1/Insp3ct0r.md",
     "picoCTF/General skills/Lets Warm Up.md",
     "picoCTF/General skills/Bases.md",
-    "Sin título.md",
     "picoCTF/Actividad 08 - picoCTF Web 1",
     "picoCTF/Actividad 08 - picoCTF Web 1",
     "picoCTF/Tarea 1 - General Skills/Binary Search.md",
-    "picoCTF/Tarea 1 - General Skills/ASCII Numbers.md",
-    "picoCTF/Tarea 1 - General Skills/Time Machine.md",
-    "picoCTF/Tarea 1 - General Skills/Special.md",
-    "picoCTF/Tarea 1 - General Skills/Permissions.md",
-    "picoCTF/Tarea 1 - General Skills/Commitment Issues.md",
-    "picoCTF/Tarea 1 - General Skills/Collaborative Development.md",
-    "picoCTF/Tarea 1 - General Skills/chrono.md",
     "picoCTF/Tarea 1 - General Skills",
     "picoCTF/General Skills 3",
     "picoCTF/General skills 2",
-    "picoCTF/General skills",
-    "picoCTF"
+    "picoCTF/General skills"
   ]
 }
