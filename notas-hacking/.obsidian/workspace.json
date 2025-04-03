@@ -13,12 +13,12 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "picoCTF/Forense/Sin título.md",
+                "file": "picoCTF/Actividad 12 - picoCTF - Forensic 1/What Lies Within.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "Sin título"
+              "title": "What Lies Within"
             }
           }
         ]
@@ -170,14 +170,18 @@
   },
   "active": "1c48d3d332ac36e6",
   "lastOpenFiles": [
+    "picoCTF/Actividad 12 - picoCTF - Forensic 1/shark on wire 1.md",
+    "picoCTF/Actividad 12 - picoCTF - Forensic 1/Glory of the Garden.md",
+    "picoCTF/Actividad 12 - picoCTF - Forensic 1/extensions.md",
+    "picoCTF/General skills/Bases.md",
+    "picoCTF/Actividad 12 - picoCTF - Forensic 1/What Lies Within.md",
+    "picoCTF/Actividad 12 - picoCTF - Forensic 1/So Meta.md",
     "Sin título.md",
-    "picoCTF/Forense/Sin título.md",
-    "picoCTF/Forense/Glory of the Garden.md",
     "picoCTF/Actividad 11 - picoCTF Web - Parte 4/Trickster.md",
     "picoCTF/Actividad 11 - picoCTF Web - Parte 4/SOAP.md",
     "picoCTF/Actividad 11 - picoCTF Web - Parte 4/Most Cookies.md",
     "picoCTF/Actividad 11 - picoCTF Web - Parte 4/MatchTheRegex.md",
-    "picoCTF/Forense",
+    "picoCTF/Actividad 12 - picoCTF - Forensic 1",
     "picoCTF/Sin título.md",
     "picoCTF/Actividad 10 - picoCTF Web 3/More SQLi.md",
     "picoCTF/Actividad 11 - picoCTF Web - Parte 4",
@@ -196,12 +200,8 @@
     "picoCTF/Actividad 08 - picoCTF Web 1/dont-use-client-side.md",
     "plantilla.md",
     "picoCTF/Actividad 08 - picoCTF Web 1/picobrowser.md",
-    "picoCTF/Actividad 08 - picoCTF Web 1/Insp3ct0r.md",
-    "picoCTF/General skills/Lets Warm Up.md",
-    "picoCTF/General skills/Bases.md",
     "picoCTF/Actividad 08 - picoCTF Web 1",
     "picoCTF/Actividad 08 - picoCTF Web 1",
-    "picoCTF/Tarea 1 - General Skills/Binary Search.md",
     "picoCTF/Tarea 1 - General Skills",
     "picoCTF/General Skills 3",
     "picoCTF/General skills 2",
