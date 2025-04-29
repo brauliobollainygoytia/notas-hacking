@@ -4,21 +4,21 @@
     "type": "split",
     "children": [
       {
-        "id": "21c1eb6db826c9aa",
+        "id": "270c654ebe0fb491",
         "type": "tabs",
         "children": [
           {
-            "id": "231538f64c50c31b",
+            "id": "36204a8ae8e1a37b",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "picoCTF/Primer Examen Parcial/Primer Parcial - Parte 1 - General Skills/Specialer.md",
+                "file": "picoCTF/Actividad 14 - picoCTF Forensic - Parte 4/tunn3l v1s10n.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "Specialer"
+              "title": "tunn3l v1s10n"
             }
           }
         ]
@@ -168,8 +168,17 @@
       "command-palette:Abrir paleta de comandos": false
     }
   },
-  "active": "231538f64c50c31b",
+  "active": "36204a8ae8e1a37b",
   "lastOpenFiles": [
+    "picoCTF/Actividad 14 - picoCTF Forensic - Parte 4/MacroHard WeakEdge.md",
+    "picoCTF/Actividad 14 - picoCTF Forensic - Parte 4/WebNet1.md",
+    "picoCTF/Actividad 14 - picoCTF Forensic - Parte 4/Matryoshka doll.md",
+    "picoCTF/Actividad 14 - picoCTF Forensic - Parte 4/WebNet0.md",
+    "picoCTF/Actividad 14 - picoCTF Forensic - Parte 4/tunn3l v1s10n.md",
+    "plantilla.md",
+    "picoCTF/Primer Examen Parcial/Primer Parcial - Parte 1 - General Skills/Specialer.md",
+    "picoCTF/Actividad 14 - picoCTF Forensic - Parte 4",
+    "Sin nombre",
     "picoCTF/Primer Examen Parcial/Primer Parcial - Parte 1 - General Skills/SansAlpha.md",
     "picoCTF/Primer Examen Parcial/Primer Parcial - Parte 1 - General Skills/Rust fixme 3.md",
     "picoCTF/Primer Examen Parcial/Primer Parcial - Parte 1 - General Skills/Rust fixme 2.md",
@@ -189,22 +198,13 @@
     "picoCTF/Primer Examen Parcial/Primer Parcial  - Parte 2 - Web/findme.md",
     "picoCTF/Primer Examen Parcial/Primer Parcial  - Parte 2 - Web/Cookie Monster Secret Recipe.md",
     "picoCTF/Primer Examen Parcial/Primer Parcial  - Parte 2 - Web/Bookmarklet.md",
-    "picoCTF/Primer Examen Parcial/Primer Parcial - Parte 1 - General Skills/Specialer.md",
-    "plantilla.md",
-    "README.md",
     "picoCTF/Primer Examen Parcial/Primer Parcial - Parte 1 - General Skills",
-    "picoCTF/Actividad 13 - picoCTF - Forensic 2/WhitePages.md",
     "picoCTF/Primer Examen Parcial/Primer Parcial  - Parte 2 - Web",
-    "picoCTF/Primer Examen Parcial/Sin título.md",
     "picoCTF/Primer Examen Parcial",
-    "picoCTF/Actividad 13 - picoCTF - Forensic 2/shark on wire 2.md",
-    "picoCTF/Actividad 13 - picoCTF - Forensic 2/m00nwalk.md",
     "picoCTF/Actividad 13 - picoCTF - Forensic 2",
     "picoCTF/Tarea 2 - Retos Web",
     "picoCTF/Actividad 12 - picoCTF - Forensic 1",
     "picoCTF/Actividad 11 - picoCTF Web - Parte 4",
-    "picoCTF/Actividad 10 - picoCTF Web 3",
-    "picoCTF/Actividad 09 - picoCTF Web 2",
-    "picoCTF/Actividad 08 - picoCTF Web 1"
+    "picoCTF/Actividad 10 - picoCTF Web 3"
   ]
 }

@@ -1,0 +1,46 @@
+# WebNet0
+We found this [packet capture](https://jupiter.challenges.picoctf.org/static/0c84d3636dd088d9fe4efd5d0d869a06/capture.pcap) and [key](https://jupiter.challenges.picoctf.org/static/0c84d3636dd088d9fe4efd5d0d869a06/picopico.key). Recover the flag.
+Try using a tool like Wireshark.
+How can you decrypt the TLS stream?
+
+## Solución
+Usando la terminal de kali linux
+```
+┌──(kali㉿kali)-[~/Documents/srss/forensic]
+└─$ wget https://jupiter.challenges.picoctf.org/static/0c84d3636dd088d9fe4efd5d0d869a06/capture.pcap                                        
+--2025-04-28 15:42:44--  https://jupiter.challenges.picoctf.org/static/0c84d3636dd088d9fe4efd5d0d869a06/capture.pcap
+Resolving jupiter.challenges.picoctf.org (jupiter.challenges.picoctf.org)... 3.131.60.8
+Connecting to jupiter.challenges.picoctf.org (jupiter.challenges.picoctf.org)|3.131.60.8|:443... connected.
+HTTP request sent, awaiting response... 200 OK
+Length: 13163 (13K) [application/octet-stream]
+Saving to: ‘capture.pcap’
+
+capture.pcap                              100%[===================================================================================>]  12.85K  --.-KB/s    in 0s      
+
+2025-04-28 15:42:44 (495 MB/s) - ‘capture.pcap’ saved [13163/13163]
+
+                                                                                                                                                                      
+┌──(kali㉿kali)-[~/Documents/srss/forensic]
+└─$ wget https://jupiter.challenges.picoctf.org/static/0c84d3636dd088d9fe4efd5d0d869a06/picopico.key
+--2025-04-28 15:43:01--  https://jupiter.challenges.picoctf.org/static/0c84d3636dd088d9fe4efd5d0d869a06/picopico.key
+Resolving jupiter.challenges.picoctf.org (jupiter.challenges.picoctf.org)... 3.131.60.8
+Connecting to jupiter.challenges.picoctf.org (jupiter.challenges.picoctf.org)|3.131.60.8|:443... connected.
+HTTP request sent, awaiting response... 200 OK
+Length: 1704 (1.7K) [application/octet-stream]
+Saving to: ‘picopico.key’
+
+picopico.key                              100%[===================================================================================>]   1.66K  --.-KB/s    in 0s      
+
+2025-04-28 15:43:01 (30.9 MB/s) - ‘picopico.key’ saved [1704/1704]
+
+                                                                                                                                                                      
+┌──(kali㉿kali)-[~/Documents/srss/forensic]
+└─$ wireshark capture.pcap                  
+```
+#### Usando wire shark
+Cargar la key a wireshark para desencriptar los steams, seguir los TLS steams hasta encontrar la bandera
+Pico-Flag: picoCTF{nongshim.shrimp.crackers}
+
+### Referencias
+https://youtu.be/9uflLPoETOc?si=ylXcH6uvY2kqUcmJ
+
