@@ -13,12 +13,12 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "picoCTF/Tarea 3 - Forensic/flags are stepic.md",
+                "file": "picoCTF/Actividad 16 - picoCTF Crypto - Parte 1/interencdec.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "flags are stepic"
+              "title": "interencdec"
             }
           }
         ]
@@ -170,8 +170,17 @@
   },
   "active": "36204a8ae8e1a37b",
   "lastOpenFiles": [
-    "picoCTF/Tarea 3 - Forensic/Ph4nt0m 1ntrud3r.md",
+    "picoCTF/Actividad 16 - picoCTF Crypto - Parte 1/waves over lambda.md",
+    "picoCTF/Actividad 16 - picoCTF Crypto - Parte 1/interencdec.md",
+    "picoCTF/Actividad 16 - picoCTF Crypto - Parte 1/Tapping.md",
+    "picoCTF/Actividad 16 - picoCTF Crypto - Parte 1/The Numbers.md",
+    "picoCTF/Actividad 16 - picoCTF Crypto - Parte 1/la cifra de.md",
+    "picoCTF/Actividad 16 - picoCTF Crypto - Parte 1/Easy1.md",
+    "picoCTF/Actividad 16 - picoCTF Crypto - Parte 1/caesar.md",
+    "picoCTF/Actividad 16 - picoCTF Crypto - Parte 1/13.md",
     "picoCTF/Tarea 3 - Forensic/flags are stepic.md",
+    "picoCTF/Actividad 16 - picoCTF Crypto - Parte 1",
+    "picoCTF/Tarea 3 - Forensic/Ph4nt0m 1ntrud3r.md",
     "plantilla.md",
     "picoCTF/Tarea 3 - Forensic/RED.md",
     "picoCTF/Tarea 3 - Forensic/Secret of the Polyglot.md",
@@ -191,20 +200,11 @@
     "picoCTF/Clase.md",
     "picoCTF/Actividad 15 -  picoCTF - Forensic 4",
     "clase",
-    "picoCTF/Actividad 14 - picoCTF Forensic - Parte 4/tunn3l v1s10n.md",
-    "picoCTF/Actividad 14 - picoCTF Forensic - Parte 4/MacroHard WeakEdge.md",
-    "picoCTF/Actividad 14 - picoCTF Forensic - Parte 4/WebNet1.md",
-    "picoCTF/Actividad 14 - picoCTF Forensic - Parte 4/Matryoshka doll.md",
-    "picoCTF/Actividad 14 - picoCTF Forensic - Parte 4/WebNet0.md",
-    "picoCTF/Primer Examen Parcial/Primer Parcial - Parte 1 - General Skills/Specialer.md",
     "picoCTF/Actividad 14 - picoCTF Forensic - Parte 4",
-    "picoCTF/Primer Examen Parcial/Primer Parcial - Parte 1 - General Skills/SansAlpha.md",
-    "picoCTF/Primer Examen Parcial/Primer Parcial - Parte 1 - General Skills/Rust fixme 3.md",
     "picoCTF/Primer Examen Parcial/Primer Parcial - Parte 1 - General Skills",
     "picoCTF/Primer Examen Parcial/Primer Parcial  - Parte 2 - Web",
     "picoCTF/Primer Examen Parcial",
     "picoCTF/Actividad 13 - picoCTF - Forensic 2",
-    "picoCTF/Tarea 2 - Retos Web",
-    "picoCTF/Actividad 12 - picoCTF - Forensic 1"
+    "picoCTF/Tarea 2 - Retos Web"
   ]
 }
